@@ -1,2 +1,2 @@
-Write-Host '						You Have been Hacked' -ForegroundColor DarkGreen
-Write-Host '								By CyberVarun' -ForegroundColor DarkRed 
+Write-Host "`n						You Have been Hacked`n" -ForegroundColor DarkGreen
+Write-Host "								By CyberVarun`n`n" -ForegroundColor DarkRed 
